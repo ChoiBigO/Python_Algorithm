@@ -1,6 +1,6 @@
 import sys, os
 
-# root= "D:\\workspace\\Study\\파이썬 알고리즘 문제풀이(코딩테스트 대비)\\섹션 3"
+# root= "D:\\workspace\\Study\\파이썬 알고리즘 문제풀이\\Python_Algorithm\\섹션 3"
 
 # sys.stdin=open(os.path.join(root, "8. 곳감\in1.txt"), "r")
 
